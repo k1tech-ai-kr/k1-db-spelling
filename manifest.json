@@ -1,0 +1,22 @@
+{
+  "id": "k1-db-spelling",
+  "title": "맞춤법·띄어쓰기 문항 228",
+  "description": "헷갈리는 맞춤법 낱말·시험형 문장·띄어쓰기 문항(K1 작성, 표준국어대사전 기준 검토).",
+  "version": "1.0.0",
+  "built": "2026-10-23T20:37:02.328Z",
+  "apps": [
+    "spelling-quiz"
+  ],
+  "licenses": [
+    "K1(케이원테크) 자체 작성 — CC BY-SA 4.0"
+  ],
+  "tier": "free",
+  "files": [
+    {
+      "path": "data/spelling.json",
+      "bytes": 63195,
+      "sha256": "5191f636578a91577893faf539a17e8670a8d353090ab1cacac103ddd125bc2c",
+      "app": true
+    }
+  ]
+}
